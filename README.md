@@ -4,7 +4,8 @@ Hi 👋 My name is Juan Camilo
 Web Developer
 -------------
 
-I've been learning to code for 1 year, after switching my career, I started with courses on the PLATZI platform, then I continued as a self-taught person with internet resources such as FreeCodeCamp, Youtube and official documentation.
+I've been learning to code since 2019, after switching my career, I started with courses on the <a href="https://platzi.com">PLATZI</a> platform, then I continued as a self-taught person with internet resources such as FreeCodeCamp, Youtube and official documentation.
+I obtained a Professional Qualification Certificate in Web Application Development in <a href="https://www.fempa.es">FEMPA</a>.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [juan.puerta1994@gmail.com](mailto:juan.puerta1994@gmail.com)
