@@ -9,7 +9,7 @@ I obtained a Professional Qualification Certificate in Web Application Developme
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [juan.puerta1994@gmail.com](mailto:juan.puerta1994@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning ReactNative
 * ⚡  I'm an audiovisual producer working in my first job in the technology industry 🤖.
 
 ### Skills
